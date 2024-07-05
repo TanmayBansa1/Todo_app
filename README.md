@@ -1,4 +1,5 @@
 # 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
+![Screenshot 2024-07-05 181818](https://github.com/TanmayBansa1/Todo_app/assets/121656091/e22ca666-c98e-4b93-a1ee-ea193c50042a)
 
 <br/>
 <p align="center">
@@ -20,26 +21,6 @@ This project is a Full Stack Todo List Application which is built using the Mong
 -  Users can mark Due Date & Priority Levels for the Tasks.
    <br/>
    <br/>
-
-## 🔥 Getting Started With The Project
-
--  Fork the Project in your Repository.
--  Clone the Forked Repository in your Local System.
--  Install & Configure - NodeJS, MongoDB, Robo3T.
--  Create '.env' file & Set the Environment Variables in it, as per the 'ENV_FORMAT.json' file.
--  Run 'npm install' in GitBash Terminal
--  Go to 'package.json' & inside the 'SCRIPTS', find "start":"...." <br/>
-   Change it to - "start": "nodemon index.js",
--  If you want to run the project in development mode locally then go to '.env' file & set,<br/>
-   ENVIRONMENT=development <br/>
-   DEPLOYMENT=local
--  If you want to run the project in production mode locally then go to '.env' file & set,<br/>
-   ENVIRONMENT=production <br/>
-   DEPLOYMENT=local
--  Change "module.exports = production" to "module.exports = development" or vice-versa in the 'environment.js' file as per the requirement.
--  Run 'npm start' in GitBash Terminal
--  Enjoy :)
-
 
 
 ## 🔨 Tools Used
@@ -74,11 +55,6 @@ This project is a Full Stack Todo List Application which is built using the Mong
 
 
 
-## 💻 Screens
 
-<p align="justify">
-
-</p>
-<br/>
 
 
